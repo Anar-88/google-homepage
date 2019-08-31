@@ -1,0 +1,51 @@
+
+ p{
+  text-align: center;
+ }
+ form{
+  text-align: center;
+ }
+ img {
+  width: 272px;
+  height: 92px;
+  margin-top: 10%;
+ } 
+ input {
+  width: 454px;
+  height: 34px;
+  border-radius: 25px;
+  border-color: #e6e6e6;
+ }
+
+ button {
+ height: 36px;
+ border-radius: 0px;
+ }
+ ul {
+ list-style: none;
+ }
+ .top_left {
+ float: left;
+ margin-right: 15px;
+ }
+ .top_right {
+ float: right;
+ margin-right: 25px;
+ }
+.bottom_left {
+ float: left;
+ margin-top: 15%;
+ margin-bottom: 5px;
+ margin-right: 0px;
+ }
+ .bottom_right {
+ float: right;
+ margin-top: 15%;
+ margin-bottom: 5px;
+ margin-right: 25px;
+ }
+ul li a {
+color: gray;
+ }
+
+
